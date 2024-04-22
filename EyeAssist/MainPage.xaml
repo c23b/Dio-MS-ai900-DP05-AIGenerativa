@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cv="clr-namespace:Camera.MAUI;assembly=Camera.MAUI"
+             x:Class="EyeAssist.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Fill"
+            HorizontalOptions="Fill">
+
+            <cv:CameraView x:Name="cameraView" WidthRequest="350" HeightRequest="550"
+                           CamerasLoaded="cameraView_CamerasLoaded"/>
+
+            <Button x:Name="CaptureButton"
+                    Text="Capturar"
+                    HorizontalOptions="Center"
+                    WidthRequest="350"
+                    HeightRequest="160"
+                    VerticalOptions="EndAndExpand"
+                    Clicked="OnCaptureButton" />            
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
+
+
+

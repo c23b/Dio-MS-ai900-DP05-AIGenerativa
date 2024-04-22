@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Windows Machine": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    },
+    "Development": {
+      "environmentVariables": {
+        "visionEndPoint": "",
+        "visionkey": ""
+      }
+    }
+  }
+}
