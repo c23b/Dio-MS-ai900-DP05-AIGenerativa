@@ -4,12 +4,9 @@ Desafio de Projeto da DIO para bootcamp ai900 Azure AI Fundamentals - Ai Generat
 - Por não ficar claro se serim cobrados ou não, eu decidi fazer uma implementação para compensar pois a documentação do Copilot é bem simples.
 
 ## EyeAssist: Protótipo de app para PcD Visual com .net MAUI utilizando AI Cloud no AZURE 
-- https://www.youtube.com/watch?v=KSGdjiVGvks
+- Demonstração => https://www.youtube.com/watch?v=KSGdjiVGvks
 - Codigo presente no folder EyeAssist
   
-
-
-
 
 ## Copilot.microsoft
 - Dentro desse desafio estaremos seguindo a ducumentação seguir.
