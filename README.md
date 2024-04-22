@@ -1,9 +1,19 @@
 # Dio-MS-ai900-DP05-AIGenerativa
 Desafio de Projeto da DIO para bootcamp ai900 Azure AI Fundamentals - Ai Generativa
+- No desafio e nas aulas para esse desafio havia 2 documentações que havia necessidade de solicitação dentro da microsoft.
+- Por não ficar claro se serim cobrados ou não, eu decidi fazer uma implementação para compensar pois a documentação do Copilot é bem simples.
 
-- Dentro desse desafio estaremos seguindo as três documentações a seguir, mas note que o inicio de criação e deploy do Resource é igual. Apenas dentro do Vision Studio havera distinção nas documentações.
-  - AI with Microsoft Copilot => https://aka.ms/ai900-bing-copilot
+## EyeAssist: Protótipo de app para PcD Visual com .net MAUI utilizando AI Cloud no AZURE 
+- https://www.youtube.com/watch?v=KSGdjiVGvks
+- Codigo presente no folder EyeAssist
+  
 
+
+
+
+## Copilot.microsoft
+- Dentro desse desafio estaremos seguindo a ducumentação seguir.
+- AI with Microsoft Copilot => https://aka.ms/ai900-bing-copilot
 ## STEP 01
 - Entre no Site do Copilot da Microsoft : https://copilot.microsoft.com/
 - Faça login.
@@ -28,4 +38,5 @@ Desafio de Projeto da DIO para bootcamp ai900 Azure AI Fundamentals - Ai Generat
 
 - Insira o texto "Translate that into C#" na caixa de prompt do Copilot.
 - Codigo gerado:
+  
 ![Screenshot 2024-04-09 235455](https://github.com/c23b/Dio-MS-ai900-DP05-AIGenerativa/assets/12342627/c72ef3f8-d90c-40bc-96d5-a64ed3a9c9ee)
