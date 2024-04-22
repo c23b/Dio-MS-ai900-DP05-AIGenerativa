@@ -1,7 +1,7 @@
 # Dio-MS-ai900-DP05-AIGenerativa
 Desafio de Projeto da DIO para bootcamp ai900 Azure AI Fundamentals - Ai Generativa
 - No desafio e nas aulas para esse desafio havia 2 documentações que havia necessidade de solicitação dentro da microsoft.
-- Por não ficar claro se serim cobrados ou não, eu decidi fazer uma implementação para compensar pois a documentação do Copilot é bem simples.
+- Por não ficar claro se seriam cobrados ou não, eu decidi fazer uma implementação para compensar pois a documentação do Copilot é bem simples.
 
 ## EyeAssist: Protótipo de app para PcD Visual com .net MAUI utilizando AI Cloud no AZURE 
 - Demonstração => https://www.youtube.com/watch?v=KSGdjiVGvks
